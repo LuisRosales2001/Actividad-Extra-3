@@ -1,0 +1,1 @@
+En la Unidad 2 se mayormente acerca de las bases de programacion utilizando como base el lenguaje JavaScipt, en estas bases terminos como condiciones, bucles y variables fueron usados. Espero seguir aprendiendo al respecto porque fue mi primer contacto con el lenguaje.

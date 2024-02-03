@@ -1,0 +1,1 @@
+En esta unidad trato mayormente acerca de los algoritmos sin entrar en el codigo directamente. Ademas tambien se vio el uso del codigo binario y como es el lenguaje principal de la computadora.
