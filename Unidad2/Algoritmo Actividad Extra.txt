@@ -1,0 +1,10 @@
+En mis estudios, me encontré con el problema de como organizar eficientemente la información mientras preparaba mis exámenes, lo que a menudo resultaba en  confusión, frustración y falta de claridad. 
+
+ALGORTIMO SOLUCION
+1. Escribir una lista de temas.
+2. Ordenar la lista conforme a la prioridad.
+3. Dividir el tiempo de estudio de cada tema acorde a su proridad.
+4. Crear resumenes de cada tema.
+5. Prácticar activamente realizando problemas acorde al tema.
+6. Registrar cuanto he avanzado.
+7. Repasar los temas en los que encuentra todavía dificultad.
